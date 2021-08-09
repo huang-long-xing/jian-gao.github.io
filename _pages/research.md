@@ -17,7 +17,6 @@ My research is at the interface of optimization, data analytics, transportation 
 
 ## Published Work
 - [Bus Routing Optimization Helps Boston Public Schools Design Better Policies](https://pubsonline.informs.org/doi/10.1287/inte.2019.1015) with D. Bertsimas, A. Delarue, W. Eger, J. Hanlon. **INFORMS Journal of Applied Analytics (2020)**
-
 - [The Edge of Large-Scale Optimization in Transportation and Machine Learning](/assets/papers/sebastienmartin_thesis.pdf) **MIT PhD Thesis (2019)**
     - <i class="fas fa-award" aria-hidden="true"></i> George B. Dantzig Dissertation Award (2019), INFORMS TSL Dissertation Prize (2019)
 - [Optimizing schools' start time and bus routes](https://doi.org/10.1073/pnas.1811462116) with D. Bertsimas, A. Delarue. **Proceedings of the National Academy of Sciences (2019)** 
