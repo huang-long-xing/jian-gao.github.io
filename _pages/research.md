@@ -10,9 +10,11 @@ My research is at the interface of optimization, data analytics, transportation 
 
 ## Under Review
 - [Labor Cost Free-Riding in the Gig Economy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3775888) with Z. Lian, G. van Ryzin. **Management Science, major revision (2021)**
+    - <i class="fas fa-award" aria-hidden="true"></i> INFORMS RMP (Revenue Management and Pricing) **Student Paper Award Finalist**, 2021.
 - [Detours in Shared Rides](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3711072) with I. Lobel. **Management Science, major revision (2021)**
 - [Employees, Contractors, or Hybrid: An Operational Perspective](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3878215) with I. Lobel, H. Song. **Management Science, R&R (2021)**
-- _Solving the ride-sharing productivity paradox: Priority dispatch and optimal priority sets_ with V. Krishnan, R. Iglesias, V. Pattabhiraman, S. Wang, G. van Ryzin. **Wagner Prize Finalist, 2021**
+- _Solving the ride-sharing productivity paradox: Priority dispatch and optimal priority sets_ with V. Krishnan, R. Iglesias, V. Pattabhiraman, S. Wang, G. van Ryzin. **under review**
+    - <i class="fas fa-award" aria-hidden="true"></i> INFORMS **Wagner Prize Finalist**, 2021.
 {: .small}
 
 ## Published Work
