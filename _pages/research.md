@@ -30,7 +30,7 @@ My research is at the interface of optimization, data analytics, transportation 
 {: .small}
 
 ## Working Papers
-
+- *Trading flexibility for adoption: Dynamic versus static walking in ridesharing* with S. Taylor, J. Yan. **(2021)**
 - *Optimization enables transparent and inclusive policies: Improving school schedules in San Francisco* with A. Delarue, Z. Lian. **(2021)**
 - *Autonomous Vehicles in Ride-Hailing and the Threat of Spatial Inequalities* with F. Castro, J. Gao. **(2021)**
 {: .small}
