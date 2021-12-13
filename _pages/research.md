@@ -15,6 +15,7 @@ My research is at the interface of optimization, data analytics, transportation 
 - [Employees, Contractors, or Hybrid: An Operational Perspective](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3878215) with I. Lobel, H. Song. **Management Science, R&R (2021)**
 - _Solving the ride-sharing productivity paradox: Priority dispatch and optimal priority sets_ with V. Krishnan, R. Iglesias, V. Pattabhiraman, S. Wang, G. van Ryzin. **under review**
     - <i class="fas fa-award" aria-hidden="true"></i> INFORMS **Wagner Prize Finalist**, 2021.
+- [Trading flexibility for adoption: Dynamic versus static walking in ridesharing](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3984476) with S. Taylor, J. Yan. **under review**
 {: .small}
 
 ## Published Work
@@ -30,7 +31,6 @@ My research is at the interface of optimization, data analytics, transportation 
 {: .small}
 
 ## Working Papers
-- *Trading flexibility for adoption: Dynamic versus static walking in ridesharing* with S. Taylor, J. Yan. **(2021)**
 - *Optimization enables transparent and inclusive policies: Improving school schedules in San Francisco* with A. Delarue, Z. Lian. **(2021)**
 - *Autonomous Vehicles in Ride-Hailing and the Threat of Spatial Inequalities* with F. Castro, J. Gao. **(2021)**
 {: .small}
