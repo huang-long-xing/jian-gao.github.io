@@ -13,7 +13,7 @@ My research is at the interface of optimization, data analytics, transportation 
     - <i class="fas fa-award" aria-hidden="true"></i> INFORMS RMP (Revenue Management and Pricing) Student Paper Award Honorable Mention, 2021.
 - [Detours in Shared Rides](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3711072) with I. Lobel. **Management Science, major revision (2021)**
 - [Employees, Contractors, or Hybrid: An Operational Perspective](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3878215) with I. Lobel, H. Song. **Management Science, R&R (2021)**
-- _Solving the ride-sharing productivity paradox: Priority dispatch and optimal priority sets_ with V. Krishnan, R. Iglesias, V. Pattabhiraman, S. Wang, G. van Ryzin. **under review**
+- [Solving the ride-sharing productivity paradox: Priority dispatch and optimal priority sets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4018653) with V. Krishnan, R. Iglesias, V. Pattabhiraman, S. Wang, G. van Ryzin. **under review**
     - <i class="fas fa-award" aria-hidden="true"></i> INFORMS **Wagner Prize Finalist**, 2021.
 - [Trading flexibility for adoption: Dynamic versus static walking in ridesharing](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3984476) with S. Taylor, J. Yan. **under review**
 {: .small}

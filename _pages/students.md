@@ -9,11 +9,12 @@ I have the pleasure to collaborate with fantastic researchers and students!
 ## Current Collaborators
 
 ### Students
-- **Min Fei** (Northwestern IEMS, 2nd year PhD student)
-- **Jian Gao** (UCLA, 2nd year PhD student) 
+- **Min Fei** (Northwestern IEMS, 2nd year Master student)
+- **Jian Gao** (UCLA, 2nd year PhD student)
+- **Gustavo Grivol** 
+- **Yudi Huang** (Northwestern Kellogg, 1st year PhD student)
 - **[Zhen Lian](https://www.zhenlian.me/)** (Cornell Johnson, 6th year PhD student, _on the job market!_)
-- **Partha S. Mishra** (Kellogg Operations, 3rd year  PhD student)
-- **Skandere Sahli** (MIT Sloan, ex-Master of Business Analytics student)
+- **Partha S. Mishra** (Kellogg Operations, 3rd year PhD student)
 - **[Haotian Song](https://sites.google.com/stern.nyu.edu/hsong)** (NYU Stern, 6th year  PhD student _on the job market!_)
 
 ### Researchers
@@ -33,3 +34,6 @@ I have the pleasure to collaborate with fantastic researchers and students!
 ### Researchers
 - **[Dimitris Bertsimas](https://dbertsim.mit.edu/)** (my PhD advisor at MIT)
 - **[Patrick Jaillet](http://web.mit.edu/jaillet/www/)** (my PhD advisor at MIT)
+
+### Students
+- **Skandere Sahli** (MIT Sloan, Master of Business Analytics, 2021 graduation)
