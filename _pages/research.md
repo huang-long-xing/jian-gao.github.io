@@ -17,6 +17,7 @@ My research is at the interface of optimization, data analytics, transportation 
     - <i class="fas fa-award" aria-hidden="true"></i> INFORMS **Wagner Prize Finalist**, 2021.
 - [Trading flexibility for adoption: Dynamic versus static walking in ridesharing](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3984476) with S. Taylor, J. Yan. **under review**
 {: .small}
+- *Real-Time Rideshare Driver Supply Values using Online Reinforcement Learning* with B. Han, H. Lee. **submitted to KDD 2022**
 
 ## Published Work
 - [Bus Routing Optimization Helps Boston Public Schools Design Better Policies](https://pubsonline.informs.org/doi/10.1287/inte.2019.1015) with D. Bertsimas, A. Delarue, W. Eger, J. Hanlon. **INFORMS Journal of Applied Analytics (2020)**
@@ -31,8 +32,10 @@ My research is at the interface of optimization, data analytics, transportation 
 {: .small}
 
 ## Working Papers
-- *Optimization enables transparent and inclusive policies: Improving school schedules in San Francisco* with A. Delarue, Z. Lian. **(2021)**
-- *Autonomous Vehicles in Ride-Hailing and the Threat of Spatial Inequalities* with F. Castro, J. Gao. **(2021)**
+- *Optimization enables transparent and inclusive policies: Improving school schedules in San Francisco* with A. Delarue, Z. Lian. **(2022)**
+- *Autonomous Vehicles in Ride-Hailing and the Threat of Spatial Inequalities* with F. Castro, J. Gao. **(2022)**
+{: .small}
+- *Supply Prioritization in Hybrid Marketplaces* with F. Castro, J. Gao. **(2022)**
 {: .small}
 
 ## Completed Work

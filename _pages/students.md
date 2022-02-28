@@ -11,7 +11,7 @@ I have the pleasure to collaborate with fantastic researchers and students!
 ### Students
 - **Min Fei** (Northwestern IEMS, 2nd year Master student)
 - **Jian Gao** (UCLA, 2nd year PhD student)
-- **Gustavo Grivol** 
+- **Gustavo Grivol** (NYU, incoming PhD student)
 - **Yudi Huang** (Northwestern Kellogg, 1st year PhD student)
 - **[Zhen Lian](https://www.zhenlian.me/)** (Cornell Johnson, 6th year PhD student, _on the job market!_)
 - **Partha S. Mishra** (Kellogg Operations, 3rd year PhD student)
