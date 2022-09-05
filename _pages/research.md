@@ -9,17 +9,17 @@ My research is at the interface of optimization, data analytics, transportation 
 <a href="https://scholar.google.com/citations?user=ffqbs_0AAAAJ&hl=en" class="btn btn--primary"><i class="fas a-graduation-cap" aria-hidden="true"></i> Google Scholar</a>
 
 ## Under Review
+- [Detours in Shared Rides](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3711072) with I. Lobel. **Management Science, minor revision (2022)**
+- [Trading flexibility for adoption: Dynamic versus static walking in ridesharing](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3984476) with S. Taylor, J. Yan. **Management Science, R&R (2022)**
 - [Labor Cost Free-Riding in the Gig Economy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3775888) with Z. Lian, G. van Ryzin. **Management Science, major revision (2021)**
     - <i class="fas fa-award" aria-hidden="true"></i> INFORMS RMP (Revenue Management and Pricing) Student Paper Award Honorable Mention, 2021.
-- [Detours in Shared Rides](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3711072) with I. Lobel. **Management Science, major revision (2021)**
 - [Employees, Contractors, or Hybrid: An Operational Perspective](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3878215) with I. Lobel, H. Song. **Management Science, R&R (2021)**
-- [Solving the ride-sharing productivity paradox: Priority dispatch and optimal priority sets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4018653) with V. Krishnan, R. Iglesias, V. Pattabhiraman, S. Wang, G. van Ryzin. **under review, INFORMS Journal on Applied Analytics (2022)**
     - <i class="fas fa-award" aria-hidden="true"></i> INFORMS **Wagner Prize Finalist**, 2021.
-- [Trading flexibility for adoption: Dynamic versus static walking in ridesharing](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3984476) with S. Taylor, J. Yan. **Management Science, R&R (2022)**
-- *Real-Time Rideshare Driver Supply Values using Online Reinforcement Learning* with B. Han, H. Lee. **submitted to KDD 2022**
 {: .small}
 
 ## Published Work
+- [Real-Time Rideshare Driver Supply Values using Online Reinforcement Learning](https://dl.acm.org/doi/abs/10.1145/3534678.3539141) with B. Han, H. Lee. **KDD 2022**
+- [Solving the ride-sharing productivity paradox: Priority dispatch and optimal priority sets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4018653) with V. Krishnan, R. Iglesias, V. Pattabhiraman, S. Wang, G. van Ryzin. **INFORMS Journal on Applied Analytics (2022)**
 - [Bus Routing Optimization Helps Boston Public Schools Design Better Policies](https://pubsonline.informs.org/doi/10.1287/inte.2019.1015) with D. Bertsimas, A. Delarue, W. Eger, J. Hanlon. **INFORMS Journal of Applied Analytics (2020)**
 - [The Edge of Large-Scale Optimization in Transportation and Machine Learning](/assets/papers/sebastienmartin_thesis.pdf) **MIT PhD Thesis (2019)**
     - <i class="fas fa-award" aria-hidden="true"></i> George B. Dantzig Dissertation Award (2019), INFORMS TSL Dissertation Prize (2019)
@@ -32,14 +32,13 @@ My research is at the interface of optimization, data analytics, transportation 
 {: .small}
 
 ## Working Papers
+- *Routing, Scheduling and Workload Planning for Shared Robots-as-a-Service Operations* with A. Jacquillat, S. Sahli, K. Wang **(2022)**
 - *Optimization enables transparent and inclusive policies: Improving school schedules in San Francisco* with A. Delarue, Z. Lian. **(2022)**
 - *Autonomous Vehicles in Ride-Hailing and the Threat of Spatial Inequalities* with F. Castro, J. Gao. **(2022)**
-{: .small}
 - *Supply Prioritization in Hybrid Marketplaces* with F. Castro, J. Gao. **(2022)**
 {: .small}
 
 ## Completed Work
-
 - [The price of Interpretability](https://arxiv.org/abs/1907.03419) with D. Bertsimas, A. Delarue, P. Jaillet **available on arXiv (2019)**
    - <i class="fas fa-award" aria-hidden="true"></i> INFORMS Data Mining Section Best Student Paper Finalist (2019)
 - [Optimal Explanations of Linear Models](https://arxiv.org/abs/1907.04669) with D. Bertsimas, A. Delarue, P. Jaillet **available on arXiv (2019)**

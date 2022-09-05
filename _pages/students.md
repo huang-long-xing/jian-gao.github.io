@@ -4,18 +4,18 @@ permalink: /students/
 author_profile: true
 ---
 
-I have the pleasure to collaborate with fantastic researchers and students!
+I have the pleasure to collaborate with fantastic academics and students!
 
 ## Current Collaborators
 
 ### Students
-- **Min Fei** (Northwestern IEMS, 2nd year Master student)
-- **Jian Gao** (UCLA, 2nd year PhD student)
-- **Gustavo Grivol** (NYU, incoming PhD student)
-- **Yudi Huang** (Northwestern Kellogg, 1st year PhD student)
-- **[Zhen Lian](https://www.zhenlian.me/)** (Cornell Johnson, 6th year PhD student, _on the job market!_)
-- **Partha S. Mishra** (Kellogg Operations, 3rd year PhD student)
-- **[Haotian Song](https://sites.google.com/stern.nyu.edu/hsong)** (NYU Stern, 6th year  PhD student _on the job market!_)
+- **Audrey Bazerghi** (Northwestern Kellogg, 3rd year Ph.D. student I co-advise)
+- **Jian Gao** (UCLA, 4th year Ph.D. student I co-advise)
+- **Gustavo Grivol** (NYU, 1st Ph.D. student I co-advise)
+- **Yudi Huang** (Northwestern Kellogg, 2nd year Ph.D. student I advise) 
+- **Partha S. Mishra** (Kellogg Operations, 4th year PhD student I co-advise)
+- **[Jiayu Kamessi Zhao](https://kamessizhao.github.io/)** (MIT ORC, advised by Daniel Freund)
+
 
 ### Researchers
 - **[Francisco Castro](https://fcocastro.github.io/)** (UCLA)
@@ -24,10 +24,12 @@ I have the pleasure to collaborate with fantastic researchers and students!
 - **[Alexandre M. Florio](https://research.tue.nl/en/persons/alexandre-m-florio/)** (Postdoc, Eidhoven University of Technology)
 - **[Daniel Freund](https://mitsloan.mit.edu/faculty/directory/daniel-freund)** (MIT Sloan)
 - **[Alexandre Jacquillat](https://mitsloan.mit.edu/faculty/directory/alexandre-jacquillat)** (MIT Sloan)
+- **[Zhen Lian](https://www.zhenlian.me/)** (Lyft postdoc)
 - **[Ilan Lobel](https://www.stern.nyu.edu/faculty/bio/ilan-lobel)** (NYU)
 - **[Karen Smilowitz](http://users.iems.northwestern.edu/~smilo/)** (Northwestern University)
-- **[Garrett van Ryzin](https://www8.gsb.columbia.edu/cbs-directory/detail/gjv1)** (Amazon)
-- **[Julia Yan](http://www.mit.edu/~jyyan/)** (Postdoc, Lyft)
+- **[Haotian Song](https://trevorhsong.github.io/)** (ZJU)
+- **[Garrett van Ryzin](https://www.linkedin.com/in/garrett-van-ryzin-7084a1/)** (Amazon)
+- **[Julia Yan](https://www.sauder.ubc.ca/people/julia-yan)** (UBC)
 
 ## Past Collaborators
 
@@ -37,3 +39,4 @@ I have the pleasure to collaborate with fantastic researchers and students!
 
 ### Students
 - **Skandere Sahli** (MIT Sloan, Master of Business Analytics, 2021 graduation)
+- **Min Fei** (Northwestern IEMS, M.Sc. 2022)
