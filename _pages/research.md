@@ -10,7 +10,6 @@ My research is at the interface of optimization, data analytics, transportation 
 
 ## Under Review
 - [Employees, Contractors, or Hybrid: An Operational Perspective](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3878215) with I. Lobel, H. Song. **Submitted to MSOM**
-{: .small}
 - [Algorithmic Precision and Human Decision: A Study of Interactive Optimization for School Schedules](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4324076) with A. Delarue, Z. Lian. **Submitted to Management Science**.
 - [Autonomous Vehicles in Ride-Hailing and the Threat of Spatial Inequalities](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4332493) with F. Castro, J. Gao. **Submitted to Management Science**
 - [Mobility-on-Demand Meets Shuttles on the Same Mile](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4322824) with S. Chopra, P. Mishra, K. Smilowitz. **Submitted to MSOM**
@@ -18,6 +17,7 @@ My research is at the interface of optimization, data analytics, transportation 
 - [Trading flexibility for adoption: Dynamic versus static walking in ridesharing](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3984476) with S. Taylor, J. Yan. **Management Science, R&R**
 - [Labor Cost Free-Riding in the Gig Economy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3775888) with Z. Lian, G. van Ryzin. **Management Science, major revision**
     - <i class="fas fa-award" aria-hidden="true"></i> INFORMS RMP (Revenue Management and Pricing) Student Paper Award Honorable Mention, 2021.
+{: .small}
 
 ## Published Work
 - [Real-Time Rideshare Driver Supply Values using Online Reinforcement Learning](https://dl.acm.org/doi/abs/10.1145/3534678.3539141) with B. Han, H. Lee. **KDD 2022**
