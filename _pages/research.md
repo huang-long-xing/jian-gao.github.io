@@ -9,16 +9,19 @@ My research is at the interface of optimization, data analytics, transportation 
 <a href="https://scholar.google.com/citations?user=ffqbs_0AAAAJ&hl=en" class="btn btn--primary"><i class="fas a-graduation-cap" aria-hidden="true"></i> Google Scholar</a>
 
 ## Under Review
-- [Detours in Shared Rides](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3711072) with I. Lobel. **Management Science, minor revision (2022)**
-- [Trading flexibility for adoption: Dynamic versus static walking in ridesharing](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3984476) with S. Taylor, J. Yan. **Management Science, R&R (2022)**
-- [Labor Cost Free-Riding in the Gig Economy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3775888) with Z. Lian, G. van Ryzin. **Management Science, major revision (2021)**
-    - <i class="fas fa-award" aria-hidden="true"></i> INFORMS RMP (Revenue Management and Pricing) Student Paper Award Honorable Mention, 2021.
-- [Employees, Contractors, or Hybrid: An Operational Perspective](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3878215) with I. Lobel, H. Song. **Management Science, R&R (2021)**
+- [Employees, Contractors, or Hybrid: An Operational Perspective](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3878215) with I. Lobel, H. Song. **Submitted to MSOM**
 {: .small}
+- [Algorithmic Precision and Human Decision: A Study of Interactive Optimization for School Schedules](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4324076) with A. Delarue, Z. Lian. **Submitted to Management Science**.
+- [Autonomous Vehicles in Ride-Hailing and the Threat of Spatial Inequalities](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4332493) with F. Castro, J. Gao. **Submitted to Management Science**
+- [Mobility-on-Demand Meets Shuttles on the Same Mile](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4322824) with S. Chopra, P. Mishra, K. Smilowitz. **Submitted to MSOM**
+- [Detours in Shared Rides](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3711072) with I. Lobel. **Management Science, minor revision**
+- [Trading flexibility for adoption: Dynamic versus static walking in ridesharing](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3984476) with S. Taylor, J. Yan. **Management Science, R&R**
+- [Labor Cost Free-Riding in the Gig Economy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3775888) with Z. Lian, G. van Ryzin. **Management Science, major revision**
+    - <i class="fas fa-award" aria-hidden="true"></i> INFORMS RMP (Revenue Management and Pricing) Student Paper Award Honorable Mention, 2021.
 
 ## Published Work
 - [Real-Time Rideshare Driver Supply Values using Online Reinforcement Learning](https://dl.acm.org/doi/abs/10.1145/3534678.3539141) with B. Han, H. Lee. **KDD 2022**
-    - <i class="fas fa-award" aria-hidden="true"></i> **Franz Edelman 2023 Award semi-finalist**.
+    - <i class="fas fa-award" aria-hidden="true"></i> **Franz Edelman 2023 Award finalist**.
 - [Solving the ride-sharing productivity paradox: Priority dispatch and optimal priority sets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4018653) with V. Krishnan, R. Iglesias, V. Pattabhiraman, S. Wang, G. van Ryzin. **INFORMS Journal on Applied Analytics (2022)**
     - <i class="fas fa-award" aria-hidden="true"></i> INFORMS **Wagner Prize Finalist**, 2021.
 - [Bus Routing Optimization Helps Boston Public Schools Design Better Policies](https://pubsonline.informs.org/doi/10.1287/inte.2019.1015) with D. Bertsimas, A. Delarue, W. Eger, J. Hanlon. **INFORMS Journal of Applied Analytics (2020)**
@@ -34,9 +37,7 @@ My research is at the interface of optimization, data analytics, transportation 
 
 ## Working Papers
 - *Routing, Scheduling and Workload Planning for Shared Robots-as-a-Service Operations* with A. Jacquillat, S. Sahli, K. Wang **(2022)**
-- *Optimization enables transparent and inclusive policies: Improving school schedules in San Francisco* with A. Delarue, Z. Lian. **(2022)**
-- *Autonomous Vehicles in Ride-Hailing and the Threat of Spatial Inequalities* with F. Castro, J. Gao. **(2022)**
-- *Supply Prioritization in Hybrid Marketplaces* with F. Castro, J. Gao. **(2022)**
+- [Supply Prioritization in Hybrid Marketplaces](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4119096) with F. Castro, J. Gao. **(2022)**
 {: .small}
 
 ## Completed Work
