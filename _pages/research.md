@@ -9,6 +9,8 @@ My research is at the interface of optimization, data analytics, transportation 
 <a href="https://scholar.google.com/citations?user=ffqbs_0AAAAJ&hl=en" class="btn btn--primary"><i class="fas a-graduation-cap" aria-hidden="true"></i> Google Scholar</a>
 
 ## Under Review
+- A better match for everyone: Reinforcement Learning at Lyft with X. Azagirre, A. Balwally, G. Candelli, N. Chamandy, B. Han, A. King, H. Lee, M. Loncaric, S. Martin, V. Narasiman, T. Qin, B. Richard, S. Smoot, S. Taylor, G. van Ryzin, D. Wu, F. Yu, A. Zamoshchin  **Submitted to INFORMS Journal on Applied Analytics**
+    - <i class="fas fa-award" aria-hidden="true"></i> Franz Edelman Award Laureate, 2023.
 - [Employees versus Contractors: An Operational Perspective](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3878215) with I. Lobel, H. Song. **Submitted to MSOM**
 - [Algorithmic Precision and Human Decision: A Study of Interactive Optimization for School Schedules](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4324076) with A. Delarue, Z. Lian. **Submitted to Management Science**.
 - [Autonomous Vehicles in Ride-Hailing and the Threat of Spatial Inequalities](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4332493) with F. Castro, J. Gao. **Submitted to Management Science**
