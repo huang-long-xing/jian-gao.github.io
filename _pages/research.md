@@ -23,7 +23,6 @@ My research is at the interface of optimization, data analytics, transportation 
 
 ## Published Work
 - [Real-Time Rideshare Driver Supply Values using Online Reinforcement Learning](https://dl.acm.org/doi/abs/10.1145/3534678.3539141) with B. Han, H. Lee. **KDD 2022**
-    - <i class="fas fa-award" aria-hidden="true"></i> **Franz Edelman 2023 Award finalist**.
 - [Solving the ride-sharing productivity paradox: Priority dispatch and optimal priority sets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4018653) with V. Krishnan, R. Iglesias, V. Pattabhiraman, S. Wang, G. van Ryzin. **INFORMS Journal on Applied Analytics (2022)**
     - <i class="fas fa-award" aria-hidden="true"></i> INFORMS **Wagner Prize Finalist**, 2021.
 - [Bus Routing Optimization Helps Boston Public Schools Design Better Policies](https://pubsonline.informs.org/doi/10.1287/inte.2019.1015) with D. Bertsimas, A. Delarue, W. Eger, J. Hanlon. **INFORMS Journal of Applied Analytics (2020)**
