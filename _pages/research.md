@@ -9,16 +9,14 @@ My research is at the interface of optimization, data analytics, transportation 
 <a href="https://scholar.google.com/citations?user=ffqbs_0AAAAJ&hl=en" class="btn btn--primary"><i class="fas a-graduation-cap" aria-hidden="true"></i> Google Scholar</a>
 
 ## Under Review
+- [Detours in Shared Rides](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3711072) with I. Lobel. **Management Science, minor revision**
+- [Trading flexibility for adoption: Dynamic versus static walking in ridesharing](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3984476) with S. Taylor, J. Yan. **Management Science, Major Revision**
+- [Labor Cost Free-Riding in the Gig Economy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3775888) with Z. Lian, G. van Ryzin. **Management Science, Major revision**
+- [Employees versus Contractors: An Operational Perspective](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3878215) with I. Lobel, H. Song. **MSOM Frontiers, Major Revision**
+    - <i class="fas fa-award" aria-hidden="true"></i> INFORMS RMP (Revenue Management and Pricing) Student Paper Award Honorable Mention, 2021.
+- [Algorithmic Precision and Human Decision: A Study of Interactive Optimization for School Schedules](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4324076) with A. Delarue, Z. Lian. **Management Science, R&R**.
 - A better match for everyone: Reinforcement Learning at Lyft with X. Azagirre, A. Balwally, G. Candelli, N. Chamandy, B. Han, A. King, H. Lee, M. Loncaric, S. Martin, V. Narasiman, T. Qin, B. Richard, S. Smoot, S. Taylor, G. van Ryzin, D. Wu, F. Yu, A. Zamoshchin  **Submitted to INFORMS Journal on Applied Analytics**
     - <i class="fas fa-award" aria-hidden="true"></i> Franz Edelman Award Laureate, 2023.
-- [Employees versus Contractors: An Operational Perspective](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3878215) with I. Lobel, H. Song. **Submitted to MSOM**
-- [Algorithmic Precision and Human Decision: A Study of Interactive Optimization for School Schedules](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4324076) with A. Delarue, Z. Lian. **Submitted to Management Science**.
-- [Autonomous Vehicles in Ride-Hailing and the Threat of Spatial Inequalities](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4332493) with F. Castro, J. Gao. **Submitted to Management Science**
-- [Mobility-on-Demand Meets Shuttles on the Same Mile](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4322824) with S. Chopra, P. Mishra, K. Smilowitz. **Submitted to MSOM**
-- [Detours in Shared Rides](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3711072) with I. Lobel. **Management Science, minor revision**
-- [Trading flexibility for adoption: Dynamic versus static walking in ridesharing](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3984476) with S. Taylor, J. Yan. **Management Science, R&R**
-- [Labor Cost Free-Riding in the Gig Economy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3775888) with Z. Lian, G. van Ryzin. **Management Science, major revision**
-    - <i class="fas fa-award" aria-hidden="true"></i> INFORMS RMP (Revenue Management and Pricing) Student Paper Award Honorable Mention, 2021.
 {: .small}
 
 ## Published Work
@@ -37,8 +35,10 @@ My research is at the interface of optimization, data analytics, transportation 
 {: .small}
 
 ## Working Papers
-- *Routing, Scheduling and Workload Planning for Shared Robots-as-a-Service Operations* with A. Jacquillat, S. Sahli, K. Wang **(2022)**
 - [Supply Prioritization in Hybrid Marketplaces](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4119096) with F. Castro, J. Gao. **(2022)**
+- *Routing, Scheduling and Workload Planning for Shared Robots-as-a-Service Operations* with A. Jacquillat, S. Sahli, K. Wang **(2023)**
+- [Autonomous Vehicles in Ride-Hailing and the Threat of Spatial Inequalities](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4332493) with F. Castro, J. Gao. **(2023)**
+- [Mobility-on-Demand Meets Shuttles on the Same Mile](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4322824) with S. Chopra, P. Mishra, K. Smilowitz. **(2023)**
 {: .small}
 
 ## Completed Work

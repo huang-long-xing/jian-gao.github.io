@@ -3,6 +3,7 @@ title: "Research Impact & Media Coverage"
 permalink: /press/
 author_profile: true
 ---
+- [At Their Best, Self-Learning Algorithms Can Be "Win-Win-Win" ](https://insight.kellogg.northwestern.edu/article/at-their-best-self-learning-algorithms-can-be-a-win-win-win) (Kellogg Insight, 2023) on my work with the ridesharing company Lyft.
 - [Kellogg Insight Podcast](https://insight.kellogg.northwestern.edu/article/podcast-what-one-school-districts-fiasco-says-about-the-strengths-and-limits-of-ai) on my work with public school districts and what it means for the interface of AI and policy. 
 - [Thoughts](https://pubsonline.informs.org/do/10.1287/orms.2022.01.06/full/) on collaborations between the Operations Research community and school districts. **ORMS Today, February 2022**.
 - I helped with the post-covid reopening of the public schools of San Francisco: my team redesigned their schedules to improve student health and save millions of dollars for the school budget.

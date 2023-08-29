@@ -9,19 +9,18 @@ I have the pleasure to collaborate with fantastic academics and students!
 ## Current Collaborators
 
 ### Students
-- **Audrey Bazerghi** (Northwestern Kellogg, 3rd year Ph.D. student I co-advise)
-- **Jian Gao** (UCLA, 4th year Ph.D. student I co-advise)
-- **Gustavo Grivol** (NYU, 1st Ph.D. student I co-advise)
-- **Yudi Huang** (Northwestern Kellogg, 2nd year Ph.D. student I advise) 
-- **Partha S. Mishra** (Kellogg Operations, 4th year PhD student I co-advise)
+- **[Audrey Bazerghi](https://kelloggphds.northwestern.edu/audrey-bazerghi/)** (Northwestern Kellogg, 4th year Ph.D. co-advised with Jan Van Mieghem)
+- **Jian Gao** (UCLA, 5th year Ph.D. student, co-advised with Francisco Castro)
+- **Gustavo Grivol** (NYU, 2nd year Ph.D. student, co-advised with Ilan Lobel)
+- **Yudi Huang** (Northwestern Kellogg, 3rd year Ph.D. student I advise) 
+- **Partha S. Mishra** (Kellogg Operations, 5th year PhD student I co-advise with Sunil Chopra and Karen Smilowitz)
 - **[Jiayu Kamessi Zhao](https://kamessizhao.github.io/)** (MIT ORC, advised by Daniel Freund)
 
 
-### Researchers
+### Faculty
 - **[Francisco Castro](https://fcocastro.github.io/)** (UCLA)
 - **[Sunil Chopra](https://www.kellogg.northwestern.edu/faculty/directory/chopra_sunil.aspx)** (Northwestern Kellogg)
 - **[Arthur Delarue](https://adelarue.github.io/)** (Lyft Inc., post doctoral fellow)
-- **[Alexandre M. Florio](https://research.tue.nl/en/persons/alexandre-m-florio/)** (Postdoc, Eidhoven University of Technology)
 - **[Daniel Freund](https://mitsloan.mit.edu/faculty/directory/daniel-freund)** (MIT Sloan)
 - **[Alexandre Jacquillat](https://mitsloan.mit.edu/faculty/directory/alexandre-jacquillat)** (MIT Sloan)
 - **[Zhen Lian](https://www.zhenlian.me/)** (Lyft postdoc)
