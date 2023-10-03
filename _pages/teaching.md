@@ -2,6 +2,7 @@
 title: "Teaching Experience"
 permalink: /teaching/
 author_profile: true
+classes: wide
 ---
 
 I think teaching is extremely rewarding, and it played a significant role in leading me to academia.
