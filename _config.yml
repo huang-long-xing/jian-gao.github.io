@@ -55,11 +55,13 @@ author:
   bio    : "Ph.D. candidate at UCLA Anderson School of Management"
   location : "Los Angeles, CA, USA"
   email : "jian.gao.phd@anderson.ucla.edu"
+  linkedin : "jian-gao-3b416a17b"
+  github : "kevinjgao"
   links:
     - label: "UCLA"
       icon : "fas fa-university"
       url : "https://www.ucla.edu/"
-    - label: "Operations@Anderson"
+    - label: "DOTM@Anderson"
       icon : "fas fa-user-friends"
       url : "https://www.anderson.ucla.edu/faculty-and-research/decisions-operations-and-technology-management"
 
