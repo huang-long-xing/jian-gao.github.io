@@ -27,7 +27,7 @@ logo: "/assets/images/anderson.jpg"
 
 email: jian.gao.phd@anderson.ucla.edu
 # twitter_username: username
-github_username: huang-long-xing
+github_username: kevinjgao
 search: false
 locale: en-US
 
@@ -59,7 +59,7 @@ author:
     - label: "UCLA"
       icon : "fas fa-university"
       url : "https://www.ucla.edu/"
-    - label: "Operations@Kellogg"
+    - label: "Operations@Anderson"
       icon : "fas fa-user-friends"
       url : "https://www.anderson.ucla.edu/faculty-and-research/decisions-operations-and-technology-management"
 
