@@ -12,11 +12,11 @@ classes: wide
 
 ## Conferences and Talks
 - Autonomous Vehicles in Ride-Hailing and the Threat of Spatial Inequalities.
-    - INFORMS Annual Conference, Indianapolis, IN, 10/2022
-    - POMS Annual Conference, Online, 04/2022
-    - INFORMS Annual Conference, Online, 10/2021
-    - INFORMS Revenue Management and Pricing Conference, Online, 06/2021
-    - MSOM Annual Conference, Online, 06/2021
-    - Marketplace Innovation Workshop, Online, 05/2021
+    - INFORMS Annual Conference, Indianapolis, IN, October 2022
+    - POMS Annual Conference, Online, April 2022
+    - INFORMS Annual Conference, Online, October 2021
+    - INFORMS Revenue Management and Pricing Conference, Online, June 2021
+    - MSOM Annual Conference, Online, June 2021
+    - Marketplace Innovation Workshop, Online, May 2021
 - Supply Prioritization in Hybrid Marketplaces.
-    - INFORMS Revenue Management and Pricing Conference, Online, 06/2022
+    - INFORMS Revenue Management and Pricing Conference, Online, June 2022
