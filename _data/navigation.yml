@@ -1,11 +1,9 @@
 main:
   - title: "Research"
     url: /research/
-  - title: "Collaborators"
-    url: /students/
-  - title: "Press"
-    url: /press/
+  - title: "Teaching Experience"
+    url: /teaching/
   - title: "CV"
-    url: /assets/documents/S.MARTIN_202302_short.pdf
+    url: /assets/documents/jian_gao_202310.pdf
   - title: "About"
     url: "/"
