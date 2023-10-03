@@ -13,21 +13,21 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-name: &name "Sébastien Martin" # my name, also used as default author
+name: &name "Jian Gao" # my name, also used as default author
 remote_theme: mmistakes/minimal-mistakes@4.22.0
 minimal_mistakes_skin: default # or use "default"
 title: *name # website title, also used in other places
 title_separator: "|" # Separator for subpages
 subtitle: "Personal academic website" #appears in the masthead of the website
 description: >- # this means to ignore newlines until "next attribute:"
-  Personal academic website of Sébastien Martin, professor at the Kellogg School of Management, Northwestern University.
-url: "https://sebastienmartin.info"
-repository: "sebmart/sebmart.github.io"
-logo: "/assets/images/kellogg_k.png"
+  Personal academic website of Jian Gao, a Ph.D. candidate in operations management at UCLA Anderson School of Management.
+url: "https://jian-gao.github.io"
+repository: "huang-long-xing/jian-gao.github.io"
+logo: "/assets/images/anderson.jpg"
 
-email: sebastien.martin@kellogg.northwestern.edu
+email: jian.gao.phd@anderson.ucla.edu
 # twitter_username: username
-github_username: sebmart
+github_username: huang-long-xing
 search: false
 locale: en-US
 
@@ -43,7 +43,7 @@ markdown: kramdown
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: America/Chicago # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Los_Angeles # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 atom_feed:
   hide: true
@@ -51,25 +51,17 @@ atom_feed:
 # The author sidebar
 author:
   name   : *name
-  avatar : "/assets/images/sebastienmartin.jpg"
-  bio    : "Assistant Professor of Operations at Kellogg, specialized in analytics, transportation and policy"
-  location : "Chicago, IL, USA"
-  email : "sebastien.martin@kellogg.northwestern.edu"
-  linkedin : "sebmart"
-  github : "sebmart"
+  avatar : "/assets/images/jiangao.jpg"
+  bio    : "Ph.D. candidate at UCLA Anderson School of Management"
+  location : "Los Angeles, CA, USA"
+  email : "jian.gao.phd@anderson.ucla.edu"
   links:
-    - label: "Northwestern University"
+    - label: "UCLA"
       icon : "fas fa-university"
-      url : "https://www.northwestern.edu/"
+      url : "https://www.ucla.edu/"
     - label: "Operations@Kellogg"
       icon : "fas fa-user-friends"
-      url : "https://www.kellogg.northwestern.edu/faculty/academics/operations.aspx"
-    - label: "Kellogg faculty profile"
-      icon : "fas fa-user-tie"
-      url : "https://www.kellogg.northwestern.edu/faculty/directory/martin_sebastien.aspx"
-    - label: "Google Scholar"
-      icon: "fas fa-graduation-cap"
-      url: "https://scholar.google.com/citations?user=ffqbs_0AAAAJ&hl=en"
+      url : "https://www.anderson.ucla.edu/faculty-and-research/decisions-operations-and-technology-management"
 
 include:
   - _pages
