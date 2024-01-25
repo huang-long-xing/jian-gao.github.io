@@ -16,7 +16,7 @@ Master of Business Administration
 - MGMTFE 410 Operations and Technology Management (Full-Time MBA), Fall 2020, Instructor: Prof. <a href="https://fcocastro.github.io/">Francisco Castro</a>
 
 Master of Science in Business Analytics
-- MGMTMSA 406 Prescriptive Models & Data Analytics, Winter 2023 & 2022, Instructor: Prof. <a href="https://fcocastro.github.io/">Francisco Castro</a>
+- MGMTMSA 406 Prescriptive Models & Data Analytics, Winter 2024 & 2023 & 2022, Instructor: Prof. <a href="https://fcocastro.github.io/">Francisco Castro</a>
 - MGMTMSA 401 Machine Learning and Decision Making, Fall 2020, Instructor: Prof. <a href="https://braininstitute.us/people/uri-maoz/">Uri Maoz</a>
 
 
