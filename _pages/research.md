@@ -6,12 +6,17 @@ classes: wide
 ---
 
 ## Papers
-- [Human-AI Interactions and Societal Pitfalls](https://arxiv.org/abs/2309.10448) with Francisco Castro, Sébastien Martin. **under review** **(2023)**
-    - Media Coverage: [UCLA Anderson Review](https://anderson-review.ucla.edu/ai-from-ai-a-future-of-generic-and-biased-online-content/), [Kellogg Insight](https://insight.kellogg.northwestern.edu/article/trade-off-generative-ai), [Fortune China (财富中文网)](https://www.fortunechina.com/keji/c/2023-11/22/content_443405.htm), [Montreal AI Ethics Institute (MAIEI)](https://montrealethics.ai/human-ai-interactions-and-societal-pitfalls/)
+- [Human-AI Interactions and Societal Pitfalls](https://arxiv.org/abs/2309.10448) with Francisco Castro, Sébastien Martin.
+    - **Proceedings of the 25th ACM Conference on Economics and Computation, 2024 (EC'24)**
+    - Media Coverage: [UCLA Anderson Review](https://anderson-review.ucla.edu/ai-from-ai-a-future-of-generic-and-biased-online-content/), [Kellogg Insight](https://insight.kellogg.northwestern.edu/article/trade-off-generative-ai), [Fortune China (财富中文网)](https://www.fortunechina.com/keji/c/2023-11/22/content_443405.htm), [Montreal AI Ethics Institute (MAIEI)](https://montrealethics.ai/human-ai-interactions-and-societal-pitfalls/), [Wall Street Journal](https://www.wsj.com/tech/ai/ai-chatbots-feedback-results-fa549914)
 - [Autonomous Vehicles in Ride-Hailing and the Threat of Spatial Inequalities](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4332493) with Francisco Castro, Sébastien Martin. **(2023)**
 - [Supply Prioritization in Hybrid Marketplaces](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4119096) with Francisco Castro, Sébastien Martin. **(2022)**
 
 ## Conferences and Talks
+- Human-AI Interactions and Societal Pitfalls.
+  - POMS Annual Conference, Minneapolis, April 2024
+  - SoCal OR/OM Day, Los Angeles, May 2024
+  - Marketplace Innovation Workshop, Online, May 2024
 - Autonomous Vehicles in Ride-Hailing and the Threat of Spatial Inequalities.     
     - INFORMS Annual Conference, Phoenix, AZ, October 2023
     - INFORMS Annual Conference, Indianapolis, IN, October 2022
