@@ -14,6 +14,9 @@ classes: wide
 
 ## Conferences and Talks
 - Human-AI Interactions and Societal Pitfalls.
+  - INFORMS Revenue Management and Pricing (RMP) Section Conference, Los Angeles, July 2024
+  - The Twenty-Fifth ACM Conference on Economics and Computation (EC'24), New Haven, 2024
+  - MSOM Annual Conference, Minneapolis, July 2024
   - POMS Annual Conference, Minneapolis, April 2024
   - SoCal OR/OM Day, Los Angeles, May 2024
   - Marketplace Innovation Workshop, Online, May 2024
@@ -26,4 +29,4 @@ classes: wide
     - MSOM Annual Conference, Online, June 2021
     - Marketplace Innovation Workshop, Online, May 2021
 - Supply Prioritization in Hybrid Marketplaces.
-    - INFORMS Revenue Management and Pricing Conference, Online, June 2022
+    - INFORMS Revenue Management and Pricing (RMP) Section Conference, Online, June 2022
